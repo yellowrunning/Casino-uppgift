@@ -2,7 +2,7 @@
 #include <iostream>
 #include <random>
 
-void DiceGuide() //testing test
+void DiceGuide()
 {
 	std::cout << "\nbeh\x94ver du instruktioner?\ny(Ja)/n(Nej)\n\n\n\n\nL (G\x86 tillbaka till huvudmeny, du kommer inte att tappa pengar)\n\n";
 	while (true)
